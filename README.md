@@ -16,6 +16,17 @@
 
 I'm a Software Engineering graduate interested in building software, solving technical problems, and exploring how IT systems work. I enjoy learning through hands-on projects and developing my skills across software development and IT support.
 
+## 💻 Areas of Interest
+
+- Software Development
+- Web Development
+- IT Support
+- Technical Troubleshooting
+- Database Systems
+- Networking & Systems
+- Software Engineering
+
+  
 ## 🛠️ Technologies
 
 <p>
