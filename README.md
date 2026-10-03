@@ -31,10 +31,12 @@ I'm a Software Engineering graduate interested in building software, solving tec
 ## 🎓 Education
 
 **Bachelor's degree in Software Engineering**
+**Diploma in Computer Science**
 
 ## 📫 Connect
 
-Add your LinkedIn or portfolio here when you’re ready to share them publicly.
+ LinkedIn : www.linkedin.com/in/awatifabidin
+ Email: awatifbdn@gmail.com
 
 <p align="center">
   Thanks for visiting my profile!
