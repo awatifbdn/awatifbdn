@@ -31,6 +31,7 @@ I'm a Software Engineering graduate interested in building software, solving tec
 ## 🎓 Education
 
 **Bachelor's degree in Software Engineering**
+
 **Diploma in Computer Science**
 
 ## 📫 Connect
