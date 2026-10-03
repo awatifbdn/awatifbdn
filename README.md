@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Awatif 👋
 
-<!--
-**awatifbdn/awatifbdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Graduate | Software Development | IT Support
 
-Here are some ideas to get you started:
+I'm a recent Software Engineering graduate interested in building software,
+solving technical problems, and providing effective IT support.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Areas of Interest
+
+- Software Development
+- Web Development
+- IT Support
+- Technical Troubleshooting
+- Database Systems
+- Networking & Systems
+- Software Engineering
+
+## 🛠️ Technologies
+
+Python • Java • JavaScript • HTML • CSS • SQL • Git • GitHub
+
+## 🚀 Projects
+
+Coming soon...
+
+## 🎓 Education
+
+**Bachelor's Degree in Software Engineering**
+
+## 📫 Connect With Me
+
+- LinkedIn: [Your LinkedIn]
+- Email: [Your Email]
