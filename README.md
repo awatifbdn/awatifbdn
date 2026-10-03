@@ -1,33 +1,43 @@
-# Hi, I'm Awatif 👋
+<p align="center">
+  <img src="./assets/profile-banner.png" alt="Awatif's profile banner" width="100%">
+</p>
 
-### Software Engineering Graduate | Software Development | IT Support
+<h1 align="center">Hi, I'm Awatif 👋</h1>
 
-I'm a recent Software Engineering graduate interested in building software,
-solving technical problems, and providing effective IT support.
+<p align="center">
+  Software Engineering Graduate · Software Development · IT Support
+</p>
 
-## 💻 Areas of Interest
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Building+software;Solving+technical+problems;Learning+and+exploring+IT+systems" alt="Animated introduction">
+</p>
 
-- Software Development
-- Web Development
-- IT Support
-- Technical Troubleshooting
-- Database Systems
-- Networking & Systems
-- Software Engineering
+---
+
+## 👩‍💻 About Me
+
+I'm a Software Engineering graduate interested in building software, solving technical problems, and exploring how IT systems work. I enjoy learning through hands-on projects and developing my skills across software development and IT support.
 
 ## 🛠️ Technologies
 
-Python • Java • JavaScript • HTML • CSS • SQL • Git • GitHub
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,git,github" alt="Python, Java, JavaScript, HTML, CSS, MySQL, Git and GitHub">
+</p>
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-Coming soon...
+- **[Inventra](https://github.com/awatifbdn/inventra)** — Software project built with Laravel.
+- **[Kanji Crossword](https://github.com/awatifbdn/kanji_crossword)** — HTML-based crossword project.
+- **[ProductInventory](https://github.com/awatifbdn/ProductInventory)** — Product inventory project.
 
 ## 🎓 Education
 
-**Bachelor's Degree in Software Engineering**
+**Bachelor's degree in Software Engineering**
 
-## 📫 Connect With Me
+## 📫 Connect
 
-- LinkedIn: [Your LinkedIn]
-- Email: [Your Email]
+Add your LinkedIn or portfolio here when you’re ready to share them publicly.
+
+<p align="center">
+  Thanks for visiting my profile!
+</p>
