@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/profile-banner.png" alt="Awatif's profile banner" width="100%">
-</p>
+
 
 <h1 align="center">Hi, I'm Awatif 👋</h1>
 
