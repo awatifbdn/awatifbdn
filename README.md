@@ -37,6 +37,7 @@ I'm a Software Engineering graduate interested in building software, solving tec
 ## 📫 Connect
 
  LinkedIn : www.linkedin.com/in/awatifabidin
+ 
  Email: awatifbdn@gmail.com
 
 <p align="center">
